@@ -12,11 +12,11 @@ Algoritmo em C para automatizar o registro de vendas, faturamento diário e clas
 | 1      | Areia Fina    | 118,70     |
 | 2      | Areia Média   | 95,80      |
 | 3      | Areia Grossa  | 83,50      |
-| 4      | Pedra 1       | 60,00      |
+| 4      | Pedra         | 60,00      |
 | 5      | Cimento       | 23,00      |
 | 6      | Cal           | 15,00      |
-| 7      | Tábua Bruta   | 3,80       |
-| 8      | Tijolo Baiano | 1,70       |
+| 7      | Tábua         | 3,80       |
+| 8      | Tijolo        | 1,70       |
 
 ### Critérios de Classificação
 O faturamento individual de cada produto determina sua categoria:
