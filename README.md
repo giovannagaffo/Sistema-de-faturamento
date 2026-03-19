@@ -1,7 +1,6 @@
 # Sistema-de-faturamento
 Algoritmo em C para automatizar o registro de vendas, faturamento diário e classificação de produtos.
 
-### 1. Estrutura de Dados
 * **Arrays (Vetores):** Centralização dos dados de 8 produtos (IDs, nomes e preços) em vetores para facilitar o acesso via índices.
 * **Controle de Fluxo:** Uso de laço `while (1)` para entrada contínua de dados até que o comando de encerramento (`0`) seja acionado.
 * **Validação de Dados:** Implementação de filtros para impedir códigos inexistentes ou quantidades negativas, garantindo a integridade do cálculo final.
